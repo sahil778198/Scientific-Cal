@@ -15,12 +15,6 @@ This is a simple yet functional **Scientific Calculator** built using HTML, CSS,
 - **CSS**: Styling and layout.
 - **JavaScript**: Functionality and calculations.
 
-## Installation & Usage
-
-1. **Clone or Download** this repository.
-2. Open `index.html` in any web browser.
-3. Use the calculator by clicking the buttons.
-
 ## Project Files
 
 - `index.html` - The main HTML file containing the calculator layout.
