@@ -43,6 +43,6 @@ You can see the interface of the calculator when you open `index.html` in a brow
 
 This project is open-source and available for modification and distribution.
 
----
 
-Enjoy using the **Scientific Calculator**! 🚀
+
+
